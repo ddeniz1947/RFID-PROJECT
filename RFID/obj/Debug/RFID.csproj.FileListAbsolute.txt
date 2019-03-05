@@ -1,0 +1,10 @@
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\bin\Debug\RFID.exe.config
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\bin\Debug\RFID.exe
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\bin\Debug\RFID.pdb
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\obj\Debug\RFID.csprojAssemblyReference.cache
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\obj\Debug\RFID.Form1.resources
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\obj\Debug\RFID.Properties.Resources.resources
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\obj\Debug\RFID.csproj.GenerateResource.cache
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\obj\Debug\RFID.exe
+C:\Users\Deniz Can DİNÇ\Source\Repos\RFID\RFID\obj\Debug\RFID.pdb
